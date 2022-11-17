@@ -9,6 +9,7 @@ HNSW = "540f64fa-c57e-11e8-081c-41422cda4629"
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 
 [compat]
+Distances = "0.10"
 julia = "1"
 
 [extras]
